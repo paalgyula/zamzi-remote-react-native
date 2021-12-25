@@ -6,4 +6,5 @@ export const Config = {
     ORANGE: '#D99E01',
     DARK_ORANGE: '#c98000',
     LIGHTGREEN: '#65BF38',
+    TRANSPARENT: 'rgba(0,0,0,0)'
 }
